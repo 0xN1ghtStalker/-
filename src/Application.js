@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-class Application extends Component {
+class Application extends React.Component {
 
     render(){
         return 'Hello, World';
